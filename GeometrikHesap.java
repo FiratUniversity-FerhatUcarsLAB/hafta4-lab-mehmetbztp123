@@ -1,7 +1,7 @@
 /*
-* Ad Soyad: [ADINIZ SOYADINIZ]
-* Ogrenci No: [NUMARANIZ]
-* Tarih: 05 Kasim 2025
+* Ad Soyad: Mehmet Boztepe
+* Ogrenci No: 240541084
+* Tarih: 06 Kasim 2025
 * Aciklama: Daire ve Kure Geometrik Hesaplayicisi (Gorev 2)
 */
 
