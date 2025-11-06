@@ -1,7 +1,7 @@
 /*
 * Ad Soyad: Mehmet Boztepe
 * Ogrenci No: 240541084
-* Tarih: 05 Kasim 2025
+* Tarih: 06 Kasim 2025
 * Aciklama: Detayli Maas Bordrosu Hesaplama Sistemi (Gorev 3)
 */
 
